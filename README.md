@@ -8,7 +8,7 @@ This repo demonstrates the usage of latest React-Native with Redux.
 
 - you have to use `npm@3.x`, if you are using `npm@2.x` you might get into some wired scenarios. Please open an issue if you can't get it run on `npm@2.x`. also you can follow this [issue](https://github.com/rackt/react-redux/issues/236) for more info.
 - clone the project
-- go to `Counter` folder
+- go to `App_Research` folder
 - run `npm install`
 
 Cheers,
